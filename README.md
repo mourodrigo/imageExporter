@@ -1,2 +1,7 @@
 # imageExporter
-A bash script image svg to png converter and exporter for Android/iOS usage
+
+dependencies to run:
+
+xcode-select --install
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install imagemagick --use-rsvg
