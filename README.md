@@ -29,7 +29,7 @@ Open [terminal](http://www.macworld.co.uk/feature/mac-software/get-more-out-of-o
 
 You can also type "sh" on terminal, drag the resize.sh file and later drag the svg folder.
 
-![Image exporting example](https://im.ezgif.com/tmp/im_color_128_ezgif-1-2c0aae5a27.gif)
+![Image exporting example](https://media.giphy.com/media/3oKIPhcuW5jlJOFyDe/source.gif)
 
 Exported formats:
 ----------
